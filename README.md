@@ -28,7 +28,7 @@ ContactDay is a cross platform and it required the following technologies :
 
 Code instructions
 ------------------
-To run the code, click [here](https://github.com/DSC-ENSB/ContactDay/blob/main/install.md).
+To run the code, click [here](https://github.com/thekenzai/ContactDay/blob/main/install.md).
 
 Possible next features
 ----------------------
